@@ -19,6 +19,7 @@ const allFiles = [
     "20_constants.js",
     "30_runners.js",
     "31_potions.js",
+    "40_party.js"
 ];
 
 function updateCode() {
